@@ -10,7 +10,7 @@ A simple plugin for enhancing the Advanced Custom Fields Flexible Content Field.
 
 == Description ==
 
-1. Better overview of [Advanced Custom Fields Flexible Content Fields](http://www.advancedcustomfields.com/add-ons/flexible-content-field/) layout panels
+1. Better overview of [Advanced Custom Fields Flexible Content Field](http://www.advancedcustomfields.com/add-ons/flexible-content-field/) layout panels
 2. Collapsed flexible content layouts initially
 3. Displays icons using [Dashicons](http://melchoyce.github.io/dashicons) which fields each layout contains, supports all native ACF fields types
 
