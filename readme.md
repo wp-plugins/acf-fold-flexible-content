@@ -2,9 +2,9 @@
 
 A simple plugin for enhancing the [Advanced Custom Fields Flexible Content Field](http://www.advancedcustomfields.com/add-ons/flexible-content-field/). Collapsed flexible content panels and showing icons representing each field type.
 
-![Screenshot](http://dropbox.urre.me/acf-fold-flexible.gif)
+![Screenshot](https://raw.github.com/urre/acf-fold-flexible/master/screenshot-1.png)
 
-See [full gif](http://dropbox.urre.me/acf-fold-flexible.gif)
+![Gif](https://dl.dropboxusercontent.com/u/1162759/acf-fold-flexible.gif)
 
 ## Features
 + Better overview of Flexible Content Fields layout panels
@@ -23,7 +23,12 @@ See [full gif](http://dropbox.urre.me/acf-fold-flexible.gif)
 ## Uninstall
 1. Deactivate plugin
 
+## Todo
+- [x] Support for Advanced Custom Fields PRO
+- [ ] Support new ACF fields
+
 ## Changelog
 
++ 1.0: No longer beta. Added Support for Advanced Custom Fields PRO
 + 0.15: Field type tooltips: replace underscores with spaces
 + 0.1: First version released
