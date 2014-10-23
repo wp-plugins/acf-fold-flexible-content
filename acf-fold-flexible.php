@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ACF Fold Flexible Content
+Plugin Name: ACF Fold Flexible
 Plugin URI: https://github.com/urre/acf-fold-flexible
 Description: A simple plugin for enhancing the Advanced Custom Fields Flexible Content Field. Shows collapsed panels initially, and representing icons for each field type.
 Version: 1.0.1
