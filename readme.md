@@ -1,4 +1,4 @@
-# ACF Fold Flexible Content
+# ACF Fold Flexible
 
 A simple plugin for enhancing the [Advanced Custom Fields Flexible Content Field](http://www.advancedcustomfields.com/add-ons/flexible-content-field/). Collapsed flexible content panels and showing icons representing each field type.
 
@@ -12,7 +12,7 @@ A simple plugin for enhancing the [Advanced Custom Fields Flexible Content Field
 + Displays icons using [Dashicons](http://melchoyce.github.io/dashicons) which fields each layout contains, supports all native ACF fields types
 
 ## Install
-1. Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/acf-fold-flexible-content/)
+1. Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/acf-fold-flexible/)
 
 ## Install manually
 1. Download [zip](https://github.com/urre/acf-fold-flexible/archive/master.zip) and extract
