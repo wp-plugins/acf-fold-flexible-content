@@ -1,4 +1,4 @@
-=== ACF Fold Flexible ===
+=== ACF Fold Flexible Content ===
 Contributors: urre
 Donate link: http://urre.me/donate
 Tags: fields, acf, advanced custom fields, custom fields, collapse, expand, multiple, acfpro, PRO
@@ -18,8 +18,8 @@ A simple plugin for enhancing the ACF Flexible Content Field. Collapsed flexible
 
 == Installation ==
 
-1. Upload the `acf-fold-flexible` folder to your `/wp-content/plugins/` directory
-2. Activate the "ACF Fold Flexible" plugin in your WordPress administration interface
+1. Upload the `acf-fold-flexible-content` folder to your `/wp-content/plugins/` directory
+2. Activate the "ACF Fold Flexible Content" plugin in your WordPress administration interface
 3. Done!
 
 == Feedback ==
@@ -29,7 +29,7 @@ Contact me at hej@urre.me or at https://twitter.com/urre and hopefully I can do 
 
 == Screenshots ==
 
-1. ACF Fold Flexible
+1. ACF Fold Flexible Content
 
 == Changelog ==
 
