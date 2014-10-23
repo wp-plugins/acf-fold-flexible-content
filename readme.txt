@@ -1,4 +1,4 @@
-=== ACF Fold Flexible Content ===
+=== ACF Fold Flexible ===
 Contributors: urre
 Donate link: http://urre.me/donate
 Tags: fields, acf, advanced custom fields, custom fields, collapse, expand, multiple, acfpro, PRO
