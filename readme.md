@@ -25,9 +25,12 @@ A simple plugin for enhancing the [Advanced Custom Fields Flexible Content Field
 
 ## Todo
 - [x] Support for Advanced Custom Fields PRO
+- [ ] Fix so icons line up in the same order as the fields inside
+- [ ] Change tooltip when fieldgroup is expanded
 - [ ] Support new ACF fields
 
 ## Changelog
++ 1.0.3: Bug fix. Solves panel active states for ACF PRO 5.1.0
 + 1.0.2: Bug fix: the css and javascripts did not load correctly after 4.0. Now fixed.
 + 1.0.1: Added support for fields: Gallery, url and email
 + 1.0: No longer beta. Added Support for Advanced Custom Fields PRO
